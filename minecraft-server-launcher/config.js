@@ -1,5 +1,5 @@
 //設定檔
-{
+let config = {
     "versions": [
         {
             "v": "1.16.5"
