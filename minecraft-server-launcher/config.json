@@ -3,6 +3,7 @@
     "last_version": "1.0.1",
     "news": [{
         "title": "新訊息",
+        "info": "content",
         "date": "2021-04-17"
     }],
     "support_version": [
