@@ -1,12 +1,14 @@
 {
     "_timestamp": "timestamp",
-    "last_version": "1.0.1",
-    "news": [{
-        "title": "新訊息",
-        "info": "content",
-        "date": "2021-04-17"
-    }],
-    "support_version": [
+    "latest": "1.0.1",
+    "news": [
+        {
+            "title": "新訊息",
+            "info": "content",
+            "date": "2021-04-17"
+        }
+    ],
+    "server_versions": [
         {
             "v": "1.16.5"
         },
@@ -27,6 +29,7 @@
         {
             "title": "麥塊空島生存",
             "info": "從一塊泥土開局的麥塊空島生存《OneBlock》\n\n",
+            "author": "IJAMinecraft",
             "url": "https://tedliou.com/archives/minecraft-oneblock/",
             "download": "https://ijaminecraft.com/download/map/oneblock/IJAMinecrafts-OneBlock-1-16-4.zip",
             "date": "2021-04-07",
