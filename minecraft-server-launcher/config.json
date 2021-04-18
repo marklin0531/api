@@ -1,5 +1,5 @@
 {
-    "_timestamp": "timestamp",
+    "date": "2021-04-18T02:09:28.000Z",
     "latest": "1.0.1",
     "news": [
         {
@@ -8,20 +8,25 @@
             "date": "2021-04-17"
         }
     ],
-    "server_versions": [
+    "versions": [
         {
+            "s": "Vanilla",
             "v": "1.16.5"
         },
         {
+            "s": "Vanilla",
             "v": "1.16.4"
         },
         {
+            "s": "Vanilla",
             "v": "1.14.2"
         },
         {
+            "s": "Vanilla",
             "v": "1.13.2"
         },
         {
+            "s": "Vanilla",
             "v": "1.12.2"
         }
     ],
