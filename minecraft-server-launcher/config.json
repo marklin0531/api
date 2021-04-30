@@ -87,6 +87,37 @@
             "version": [
                 "1.16.1"
             ]
+        },
+
+        {
+            "title": "Skyblock v1.4",
+            "description": "空島生存遊戲，多達20個島嶼...",
+            "author": "ZOMBIE1111",
+            "homepage": "https://www.minecraftmaps.com/survival-maps/skyblock-ultimate",
+            "tag": [
+                "Skyblock",
+                "20個島嶼",
+                "空島生存"
+            ],
+            "recommend": [
+                {
+                    "title": "YouTube遊戲介紹1",
+                    "url": "https://www.youtube.com/watch?v=83iVO6zidPY"
+                },
+                {
+                    "title": "YouTube遊戲介紹2",
+                    "url": "https://www.youtube.com/watch?v=uQZ8IX2eubc"
+                }
+            ],
+            "image": "https://www.minecraftmaps.com/images/jdownloads/screenshots/skyblock_ultimate_main0.png",
+            "download": "https://marklin0531.github.io/api/minecraft-server-launcher/maps/skyblock_ultimate_v1.4.zip",
+            "filesize": "24.6MB",
+            "players": "1人含以上",
+            "date": "2021-04-30",
+            "server": "Vanilla",
+            "version": [
+                "1.16.5"
+            ]
         }
     ]
 }
