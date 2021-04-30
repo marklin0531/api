@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-28T02:09:28.000Z",
+    "date": "2021-04-30T02:09:28.000Z",
     "latest": "1.1.0",
     "news": [
         {
@@ -136,6 +136,30 @@
             "server": "Vanilla",
             "version": [
                 "1.16.5"
+            ]
+        },
+        {
+            "title": "【坑爹直直走】極度坑爹的闖關地圖 v1",
+            "description": "易怒者勿玩...",
+            "author": "Howard",
+            "homepage": "https://forum.gamer.com.tw/C.php?bsn=18673&snA=172933",
+            "tag": [
+                "超坑"
+            ],
+            "recommend": [
+                {
+                    "title": "YouTube攻略影片",
+                    "url": "https://www.youtube.com/watch?v=SUlMFNNI-o4"
+                }
+            ],
+            "image": "https://truth.bahamut.com.tw/s01/201901/45c0a5697cc0d034b719570f44cf079f.JPG",
+            "download": "https://marklin0531.github.io/api/minecraft-server-launcher/maps/WalkThrough-1.12.2.zip",
+            "filesize": "3.8MB",
+            "players": "1~2人",
+            "date": "2021-04-30",
+            "server": "Vanilla",
+            "version": [
+                "1.12.2"
             ]
         }
     ]
