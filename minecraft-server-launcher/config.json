@@ -112,6 +112,10 @@
                 {
                     "mode": "install",
                     "url": "http://download2329.mediafire.com/t2q69xqatvug/0p12gx4mft4j1f0/Skyblock+4.08.4.zip"
+                },
+                {
+                    "mode": "custom",
+                    "url": "http://download2329.mediafire.com/t2q69xqatvug/0p12gx4mft4j1f0/Skyblock+4.08.4.zip"
                 }
             ],
             "filesize": "37.2MB",
@@ -174,7 +178,7 @@
             "image": "https://www.minecraftmaps.com/images/jdownloads/screenshots/skyblock_ultimate_main0.png",
             "download": [
                 {
-                    "mode": "custom",
+                    "mode": "install",
                     "url": "https://marklin0531.github.io/api/minecraft-server-launcher/maps/skyblock_ultimate_v1.4.zip"
                 }
             ],
